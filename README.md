@@ -1,4 +1,4 @@
-"# Puzzle Game" 
+# Puzzle Game
 
 react-native-puzzle-game :pizza: 
 
