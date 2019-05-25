@@ -2,4 +2,4 @@
 
 react-native-puzzle-game
 
-![alt text](http://url/to/Puzzle.png)
+![alt text](http://./image/Puzzle.png)
