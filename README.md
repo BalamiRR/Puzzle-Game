@@ -1,6 +1,6 @@
 # Puzzle Game
 
-React-Native App
+##React-Native App
 
 :pizza: Puzzle Game using React Native for Mobile App :pizza: 
 
