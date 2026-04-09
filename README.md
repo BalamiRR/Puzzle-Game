@@ -19,7 +19,7 @@ This project is a fun mobile puzzle game developed using React Native. Players s
 To run the project:
 
 ```
-git clone https://github.com/your-username/tom-jerry-puzzle.git
+git clone https://github.com/BalamiRR/Puzzle-Game.git
 cd tom-jerry-puzzle
 npm install
 npx react-native run-android
